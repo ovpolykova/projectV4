@@ -1,0 +1,20 @@
+.header {
+	color : #045975;
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
+.content {
+	float:left;
+	width: 100%;
+	margin-top: 5px;
+	background: #e3fcff;
+	border-width: 2px;
+}
+.footer {
+	float:left;
+	color: white;
+	width: 100%;
+	margin-top: 5px;
+	background: #03546e;
+	border-width: 2px;
+}
