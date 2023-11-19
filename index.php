@@ -6,9 +6,7 @@ include 'temp/head.php';
 include 'temp/navbar.php';
 include 'temp/header.php';
 
-//выполним соединение с БД
-$connection=new mysqli('localhost','root','','trade') or 
-die(mysqli_errno($connect).mysqli_error($connect));
+
 ?>
 
 
