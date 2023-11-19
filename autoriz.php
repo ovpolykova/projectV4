@@ -1,6 +1,6 @@
 <?php
 //выполним соединение с БД
-$connection=new mysqli('localhost','root','','trade');
+include "databaseconn.php";
 	//Если массив POST непустой, 	
 	if (!empty($_POST)) 
 {
